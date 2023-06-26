@@ -1,4 +1,4 @@
-# reading_notes
+# reading-notes
 My reading notes repository
 
 ## My awsome list
