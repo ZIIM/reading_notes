@@ -12,4 +12,4 @@ Here is some text to go with my list
 
 * [Class 01 Notes](./class_01.md)
 
-* bacon *
+*bacon*
