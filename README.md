@@ -11,3 +11,5 @@ Here is some text to go with my list
 ## Table of Contents
 
 * [Class 01 Notes](./class_01.md)
+
+* bacon *
